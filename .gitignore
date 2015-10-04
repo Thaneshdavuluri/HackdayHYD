@@ -1,0 +1,186 @@
+<!doctype html>
+<head>
+<meta charset="utf-8"/> 
+<title>bustracker</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body background="image.jpg">
+	<h1> BUS TRACKING SYSTEM</h1>
+	<nav>
+		<h3><ul><li><strong><a href="#">Home</strong></a></li>
+			<li><strong><a href="C:\Users\\rami\Desktop\bus project\dtls.html">Bus details</strong></a></li>
+			<li><strong><a href="#">Contact us</strong></a></li>
+			<li><strong><a href="#">About us</strong></a></li>
+			<li><strong><a href="#">Help</strong></a></li></ul></h3>
+	</nav>
+
+
+	<section>
+    <section>
+    	<header><h2>The Bus Monitoring System</h2></header>
+		<header><h2>THe product details</h2></header>
+		<h4>Name of a product</h4>
+		<div>
+		<img src="bus.jpg"alt="Bus"  style="width:304px;height:228px;">
+		<blockquote>
+			<p>We know where the buses are and so should you. That is why we are adding a real-time Bus Tracker to this website. All you will need to do is select your route and the Bus Tracker will show you the location of all of the buses on that route in real-time so you can plan accordingly. It's that easy.</p>
+
+		</blockquote>
+	   </div>
+
+    </section>
+    <aside>
+    	<img src="bus monitor.jpg"alt="the bus monitor system"  style="width:404px;height:230px;">
+    	<div>
+    	<p>To guarantee the safety of public transport and effectiveness in dispatching buses, overall solution on Beijing bus monitoring system (BJ-BMS) based on GPS is put forward in this paper. The system is composed of communication control and GIS subsystems, each of which was independently developed in the beginning and integrated in the end. The key technologies of the system are described in detail. In addition to some fundamental functions such as real-time monitoring, some featured functions tightly combined with the daily operations in Beijing Bus Company are realized in the BJ-BMS. Finally, the status of system implementation and maintenance are introduced, which have proven to be very effective in practical applications </p>
+    </div>
+    </section>
+</aside>
+<footer>
+	<div>
+<h4>copy rights@2015.</h4>
+</div>
+</footer>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Creative - Start Bootstrap Theme</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/creative.css" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body background="image.jpg">
+
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="-bar"></span>
+        <span class="iconicon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="bus.html"><h>Home</h></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">About us <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Help</a></li>
+        
+      </ul>
+      <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+</div>
+</container>
+</body>
+
+</html>
+
+
+
+</body>
+</html>
+h1{
+	background-color: #2F4F4F;
+	text-align: center;
+	margin-right: 230px;
+	margin-left: 300px;
+
+}h2{
+	padding-right: 40px;
+
+}
+
+
+ul,li,a{
+	text-decoration: none;
+display: inline;
+width: 70px;
+margin-left: 20px;
+background-color: black;
+color: white;
+padding-right: 20px;
+float:30px;
+
+}
+
+body{
+	background-color:#708090;
+	font-family: sans-serif;
+}
+nav{
+
+ 
+  clear: both;
+}
+
+
+footer{
+	background: black;
+	color: white;
+	padding: 2px;
+	padding-bottom: 2px;
+	text-align: center;
+}
+section{
+	text-align: center;
+	padding-left: auto;
+	padding-right: auto;
+	left text-align: center;
+}
+h2{
+	background-color: black;
+	color: white;
+}
+h4{
+	background-color: black;
+	color: white;
+}
